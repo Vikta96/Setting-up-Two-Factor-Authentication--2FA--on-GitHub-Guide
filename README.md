@@ -25,43 +25,43 @@ This involves having a physical item or device such as mobile device, security t
 ![verified device 0](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/bfeab0d1-fdc7-4bd5-b7f6-b4fd9e005f12)
 
 
-### Step-2 - Navigate to the "Settings" (Under the profile icon on right hand side)
-
-![configuring toto app - settings](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/d51feead-270d-4981-9608-f3fabdf5e310)
-
-
-
-### Step-3 - Click on "Password and Authentication"
-![password and authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/9a01118f-7ea9-497c-8ef1-b376ceafc101)
+### Step-2 - Download Authenticator App
+Before we start, download Authenticator App by searching for it in your Apple device's App Store or click on the button below Download on the App Store.
+![image 0](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/b10245f4-29bb-42be-8304-4a82535ce443)
 
 
-### Step-4 - Scroll down and click on "Enable two-factor authentication"
-![enable two factor authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/7bb871df-2708-4a80-b88f-e695f2d88522)
+### Step-3 - Navigate to the "Settings" (Under the profile icon on right hand side)
+![settings 1](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/1adcb7f2-4132-4b80-a4df-2104d879cbce)
+
+
+### Step-4 - Click on "Password and Authentication" and  Scroll down and click on "Enable two-factor authentication"
+![password and authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/019e9fec-cad6-4fd4-bffc-4ed8d4546ce9)
 
 
 ### Step-5 - Scan the QR Code displayed on the screen
+![image 4](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/80009cb7-51d3-401b-97e2-359e2e1c2aa2)
 
 
-
-### Step-6 - Setup Authenticator App to scan the QR Code (Install "Google Authenticator" on the mobile).
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/c8a17568-fa04-44f3-b32a-bb765d7ef57f" alt="Description of the image" width="450" height="200">
-
-## What is Google Authenticator?
-#### Google Authenticator is a software-based authenticator by Google. It implements multi-factor authentication services using the time-based one-time password and HMAC-based one-time password.
+### Step-6 - Capture QR Code
+Open Authenticator App, tap the plus add new Item button, and hold your device up to the computer screen to scan the QR Code from GitHub web page.
+![image 5](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/01b9817e-208a-4a70-993b-30155c3d43fe)
 
 
-### Step-8 - Open Google Authenticator on your mobile device and tap on the + icon
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/9e22d167-0782-4499-8b0d-189f99869fe9" alt="Description of the image" width="550" height="350">
-
-### Step-9 - You will be given two options, Select "Scan a QR Code"
-
-
-### Step-10 - Now Scan the QR Code on GitHub account (Enable two-factor authentication (2FA) screen)
-(Once the QR is successfully scanned by Google Authenticator, It gives a code)
+### Step-7 - Verification code
+After successfully scanning the QR Code, Authenticator App will automatically choose the GitHub logo and autofill the account name and secret key. Click on Save when ready.
+![image 6](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/ce2f462f-51ff-4df7-9ab2-58f2eedf1b95)
 
 
-### Step-11 - Enter the code displayed on the Google Authenticator to verify.
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/4e9d6694-4588-4b36-82bb-a99bf05157e9" alt="Description of the image" width="550" height="350">
+### Step-8 - Confirm OTP code
+Returning to the Github, type in the six digit code from Authenticator App in the appropriate field. When done click Continue.
+![image 7](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/5907e65b-c4b9-4c0f-9c52-19425eab6100)
 
-### Step-12 - Download the recovery codes displayed by the Github. (Optional)
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/7190944a-5c25-440a-aaca-f7755dbc59a6" alt="Description o
+
+### Step-9 - Save Your Recovery Codes
+You'll now be displayed a list of recovery codes. These are used to gain access to your account in the event you lose access to your phone so you can either download them to your device, save in Authenticator App or store them somewhere safe. One you've done that click I have saved my recovery codes to enable two-factor authentication.
+![image 8](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/7364b0f7-ef4a-424b-b956-dd4fa77b7716)
+
+
+### Step-10 - Done!
+You have successfully enabled two-factor authentication(2FA) to protect your GitHub account, from now on, you will need to use the Authenticator App when you would like to log in to your GitHub account. GitHub recommends you test it by signing out and signing back in using two-factor authentication, so in case of problems, you can use recovery codes to access your account and correct the problem.
+![image 9](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/4fd72ccc-f242-4896-9b4e-94c82a15f937)

@@ -30,6 +30,7 @@ This involves having a physical item or device such as mobile device, security t
 ![configuring toto app - settings](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/d51feead-270d-4981-9608-f3fabdf5e310)
 
 
+
 ### Step-3 - Click on "Password and Authentication"
 ![password and authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/9a01118f-7ea9-497c-8ef1-b376ceafc101)
 
@@ -38,15 +39,11 @@ This involves having a physical item or device such as mobile device, security t
 ![enable two factor authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/7bb871df-2708-4a80-b88f-e695f2d88522)
 
 
-### Step-5 - Enter the Github login password.
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/4aa56485-86dc-4b0c-8a01-1ff832aec711" alt="Description of the image" width="300" height="300">
+### Step-5 - Scan the QR Code displayed on the screen
 
 
-### Step-6 - Scan the QR Code displayed on the screen
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/c25db0af-dbe6-436d-b521-66c32a688b80" alt="Description of the image" width="400" height="200">
 
-
-### Step-7 - Setup Authenticator App to scan the QR Code (Install "Google Authenticator" on the mobile).
+### Step-6 - Setup Authenticator App to scan the QR Code (Install "Google Authenticator" on the mobile).
 <img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/c8a17568-fa04-44f3-b32a-bb765d7ef57f" alt="Description of the image" width="450" height="200">
 
 ## What is Google Authenticator?

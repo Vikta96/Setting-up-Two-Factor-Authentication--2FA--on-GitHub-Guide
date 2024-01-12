@@ -22,7 +22,8 @@ This involves having a physical item or device such as mobile device, security t
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Enabling 2FA on GitHub:
 ### Step-1 - Login into the Github account
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/e7eee7f6-46ec-40d9-98b6-570374f4c251" alt="Description of the image" width="300" height="300">
+![Uploading verified device 0.png…]()
+
 
 ### Step-2 - Navigate to the "Settings" (Under the profile icon on right hand side)
 <img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/23d91f2f-f941-4d4c-9e9b-333b0b7129da" alt="Description of the image" width="700" height="200">

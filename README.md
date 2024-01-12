@@ -26,17 +26,16 @@ This involves having a physical item or device such as mobile device, security t
 
 
 ### Step-2 - Navigate to the "Settings" (Under the profile icon on right hand side)
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/23d91f2f-f941-4d4c-9e9b-333b0b7129da" alt="Description of the image" width="700" height="200">
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/ab73d818-fa79-4b7b-84b1-fd2b7c5d7936" alt="Description of the image" width="700" height="200">
 
-
+![configuring toto app - settings](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/d51feead-270d-4981-9608-f3fabdf5e310)
 
 
 ### Step-3 - Click on "Password and Authentication"
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/30cea67f-7025-4db9-99e8-910b878d312d" alt="Description of the image" width="700" height="200">
+![password and authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/9a01118f-7ea9-497c-8ef1-b376ceafc101)
+
 
 ### Step-4 - Scroll down and click on "Enable two-factor authentication"
-<img src="https://github.com/glory-violet/How-to-enable-2FA-on-Github/assets/137056419/aad566d2-1f3f-42f8-864b-48fdefe2ef87" alt="Description of the image" width="700" height="200">
+![enable two factor authentication](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/7bb871df-2708-4a80-b88f-e695f2d88522)
 
 
 ### Step-5 - Enter the Github login password.

@@ -22,7 +22,7 @@ This involves having a physical item or device such as mobile device, security t
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Enabling 2FA on GitHub:
 ### Step-1 - Login into the Github account
-![Uploading verified device 0.png…]()
+![verified device 0](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/bfeab0d1-fdc7-4bd5-b7f6-b4fd9e005f12)
 
 
 ### Step-2 - Navigate to the "Settings" (Under the profile icon on right hand side)

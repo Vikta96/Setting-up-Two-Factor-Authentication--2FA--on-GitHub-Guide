@@ -29,7 +29,8 @@ This involves having a physical item or device such as mobile device, security t
 
 ### Step-2 - Download Authenticator App
 Before we start, download Authenticator App by searching for it in your Apple device's App Store or click on the button below Download on the App Store.
-![image 0](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/b10245f4-29bb-42be-8304-4a82535ce443)
+https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+![google authenticator](https://github.com/Vikta96/Setting-up-Two-Factor-Authentication--2FA--on-GitHub-Guide/assets/127474469/a597332c-8586-4017-972b-608353798b71)
 
 
 
